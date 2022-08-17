@@ -1,7 +1,5 @@
 # A Django CRUD application
 
-This repo is a sample Django application which serves as a demonstration of how easy it is to build CRUD APIs using Django and Django Rest Framework.
-
 The capabilities of this application include
 - Creating a new note with an empty title and content.
 - Updating the newly created note with a title and content.
