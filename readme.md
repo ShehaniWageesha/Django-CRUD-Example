@@ -1,6 +1,6 @@
 # A Django CRUD application
 
-The capabilities of this application include
+The capabilities of this application include : 
 - Creating a new note with an empty title and content.
 - Updating the newly created note with a title and content.
 - Reading the fields of a note.
