@@ -1,4 +1,4 @@
-# A Django CRUD application
+# Django CRUD application
 
 The capabilities of this application include : 
 - Creating a new note with an empty title and content.
